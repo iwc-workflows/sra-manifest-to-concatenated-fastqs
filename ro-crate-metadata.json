@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-10-23T13:04:32.570375",
+            "datePublished": "2023-11-13T09:41:59.582932",
             "hasPart": [
                 {
                     "@id": "sra-manifest-to-concatenated-fastqs.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/sra-manifest-to-concatenated-fastqs",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.14"
+            "engineVersion": ">=0.75.17"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
