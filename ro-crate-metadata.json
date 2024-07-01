@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-10T13:24:06.656544",
+            "datePublished": "2024-07-01T18:43:44.016669",
             "hasPart": [
                 {
                     "@id": "sra-manifest-to-concatenated-fastqs.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/sra-manifest-to-concatenated-fastqs",
-            "version": "0.6"
+            "version": "0.7"
         },
         {
             "@id": "#galaxy",
